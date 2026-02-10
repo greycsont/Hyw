@@ -15,7 +15,7 @@ public static class PauseMenuChecker
                 
                 _zpPauseMenu.transform.SetParent(__instance.pauseMenu.transform.parent, false);
                 
-                _zpPauseMenu.AddComponent<ArkPauseMenu>();
+                _zpPauseMenu.AddComponent<ZpPauseMenu>();
             }
             __instance.pauseMenu = _zpPauseMenu;
             _zpPauseMenu.SetActive(false);

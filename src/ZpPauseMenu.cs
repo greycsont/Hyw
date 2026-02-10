@@ -6,7 +6,7 @@ using UnityEngine;
 
 namespace HYW;
 
-public class ArkPauseMenu : PauseMenuTemplate
+public class ZpPauseMenu : PauseMenuTemplate
 {
     protected override void OnPostSetup()
     {

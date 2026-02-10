@@ -32,7 +32,7 @@ public abstract class PauseMenuTemplate : MonoBehaviour
     {
         RectTransform rt = GetComponent<RectTransform>();
         if (rt == null) rt = gameObject.AddComponent<RectTransform>();
-        
+        transform.SetAsFirstSibling();
         rt.anchorMin = Vector2.zero;
         rt.anchorMax = Vector2.one;
         
