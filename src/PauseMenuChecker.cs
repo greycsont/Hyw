@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace HYW;
+namespace Hyw;
 
 public static class PauseMenuChecker
 {

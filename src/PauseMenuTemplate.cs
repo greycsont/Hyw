@@ -4,7 +4,7 @@ using UnityEngine.UI;
 using UnityEngine.Events;
 using TMPro;
 
-namespace HYW;
+namespace Hyw;
 
 public abstract class PauseMenuTemplate : MonoBehaviour
 {

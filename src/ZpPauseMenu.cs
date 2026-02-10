@@ -4,7 +4,7 @@ using TMPro;
 using UnityEngine;
 
 
-namespace HYW;
+namespace Hyw;
 
 public class ZpPauseMenu : PauseMenuTemplate
 {
@@ -38,7 +38,7 @@ public class ZpPauseMenu : PauseMenuTemplate
         myTextObj.transform.SetParent(this.transform, false);
 
         var txt = myTextObj.AddComponent<TextMeshProUGUI>();
-        txt.text = "-- PAUSED --";
+        txt.text = "PAUSE";
         txt.fontSize = 45;
         txt.alignment = TextAlignmentOptions.Center;
         txt.raycastTarget = false;

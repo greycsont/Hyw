@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HYW", "HYW.csproj", "{0C0DE8F4-F872-48A3-905E-79CB0A773027}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hyw", "Hyw.csproj", "{0C0DE8F4-F872-48A3-905E-79CB0A773027}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

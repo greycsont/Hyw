@@ -1,6 +1,6 @@
 ﻿using HarmonyLib;
 
-namespace HYW;
+namespace Hyw;
 
 
 [HarmonyPatch(typeof(OptionsMenuToManager))]
