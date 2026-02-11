@@ -5,6 +5,8 @@ here's a screenshot:
 
 <img src="https://github.com/greycsont/Hyw/raw/master/asset/example.png">
 
+<img src="https://github.com/greycsont/Hyw/raw/master/asset/Anan_hyw">
+
 Resources used:
 
 Noto Sans SC Medium, Google, used under SIL Open Font License, Version 1.1 (https://fonts.google.com/noto/specimen/Noto+Sans+SC)
