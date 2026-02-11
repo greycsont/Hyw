@@ -5,7 +5,7 @@ here's a screenshot:
 
 <img src="https://github.com/greycsont/Hyw/raw/master/asset/example.png">
 
-<img src="https://github.com/greycsont/Hyw/raw/master/asset/Anan_hyw">
+<img src="https://github.com/greycsont/Hyw/raw/master/asset/Anan_hyw.png">
 
 Resources used:
 
